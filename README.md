@@ -18,6 +18,7 @@ Chamo-me Miguel Bragion. (ˉ﹃ˉ)
   <a href="https://www.youtube.com/@MiguelBragion" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/miguel_bragion/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.threads.net/@miguel_bragion" target="_blank"><img src="https://img.shields.io/badge/-Threads-%23333?style=for-the-badge&logo=Threads&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@miguel_bragion" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23333?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/miguel_bragion" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://www.reddit.com/user/Miguel_Bragion/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF0000?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
   <a href = "https://x.com/MiguelBragion"><img src="https://img.shields.io/badge/-X-%23333?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
