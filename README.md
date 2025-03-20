@@ -5,7 +5,6 @@ Chamo-me Miguel Bragion. (ˉ﹃ˉ)
 - 🐍 A linguagem de programação que mais uso é Python.
 - 🐧 Estou estudando Linux e fazendo um curso digital relacionado.
 - 🤖 Estudando Python em Discord para conseguir criar bots.
-- ✉ Contacte-me: contatomiguelbragion@gmail.com
 
 
 <div style="display: inline_block"><br>
